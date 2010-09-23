@@ -33,6 +33,8 @@
 #define GS_SCALE 6
 #define GS_ROTATE 7
 #define GS_TAP 8
+#define GS_WIDE_HSWIPE 9
+#define GS_WIDE_VSWIPE 10
 
 struct Gestures {
 	bitmask_t type, btmask, btdata;
