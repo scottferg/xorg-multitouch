@@ -3,7 +3,7 @@ PATCHLEVEL = 0
 EXTRAVERSION = beta1
 
 LIBRARY	= multitouch.so
-FDIS	= 11-multitouch.fdi
+FDIS	= 11-multitouch.fdi 12-magicmouse.fdi
 MODULES = match mtdev src
 XMODULES = driver
 
